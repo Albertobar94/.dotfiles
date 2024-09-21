@@ -9,10 +9,8 @@
   "editor.detectIndentation": true,
   "editor.fontFamily": "Anonymous Pro",
   "editor.fontLigatures": true,
-  "editor.fontSize": 24,
   "editor.formatOnPaste": true,
   "editor.inlineSuggest.enabled": true,
-  "editor.lineHeight": 0,
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
   "editor.multiCursorModifier": "alt",
@@ -73,7 +71,7 @@
   "workbench.editor.labelFormat": "medium",
   "workbench.editor.showTabs": "none",
   "workbench.iconTheme": "vscode-icons",
-  "workbench.sideBar.location": "left",
+  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -111,7 +109,20 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.userWords": ["esbenp"],
+  "cSpell.userWords": [
+    "albertobarboza",
+    "autofetch",
+    "codesnap",
+    "dont",
+    "esbenp",
+    "LKSG",
+    "Oakslab",
+    "Osapiens",
+    "screencast",
+    "Sesh",
+    "Storyvine",
+    "vsicons"
+  ],
   "javascript.referencesCodeLens.enabled": true,
   "javascript.referencesCodeLens.showOnAllFunctions": true,
   "typescript.preferences.organizeImports": {},
@@ -124,5 +135,7 @@
   "javascript.preferGoToSourceDefinition": true,
   "typescript.preferGoToSourceDefinition": true,
   "editor.gotoLocation.alternativeImplementationCommand": "editor.action.goToImplementation",
-  "workbench.statusBar.visible": false
+  "workbench.statusBar.visible": false,
+  "editor.lineHeight": 0,
+  "editor.fontSize": 22
 }
