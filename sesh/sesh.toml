@@ -1,0 +1,23 @@
+[[session]]
+name = "Home 🏠"
+path = "~"
+
+[[session]]
+name = "Sesh"
+path = "~/.config/sesh"
+
+[[session]]
+name = "Now Storyvine ⬛️"
+path = "/Users/albertobarboza/Dev/Repositories/Oakslab/Storyvine"
+
+[[session]]
+name = "LKSG 🚢"
+path = "~/Dev/Repositories/Osapiens/Bpt/lksg-backend"
+
+[[session]]
+name = "DMA E2E 🚢"
+path = "~/Dev/Repositories/Osapiens/Bpt/dma-e2e-tests"
+
+[[session]]
+name = "LKSG E2E 🚢"
+path = "~/Dev/Repositories/Osapiens/Bpt/e2e-tests"
